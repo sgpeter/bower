@@ -1,0 +1,11 @@
+{
+  "name": "example-bootstrap",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bower/project",
+  "authors": [
+    "John Doe <sgpeter81@gmail.com>"
+  ],
+  "dependencies": {
+    "bootstrap": "3.2.0"
+  }
+}
